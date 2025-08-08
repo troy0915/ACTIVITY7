@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity7simple calculator\obj\Debug\Activity7simple calculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity7simple calculator\obj\Debug\Activity7simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity7simple calculator\bin\Debug\Activity7simple calculator.exe.config
+C:\Users\HP\source\repos\Activity7simple calculator\bin\Debug\Activity7simple calculator.exe
+C:\Users\HP\source\repos\Activity7simple calculator\bin\Debug\Activity7simple calculator.pdb
+C:\Users\HP\source\repos\Activity7simple calculator\obj\Debug\Activity7simple calculator.exe
+C:\Users\HP\source\repos\Activity7simple calculator\obj\Debug\Activity7simple calculator.pdb
